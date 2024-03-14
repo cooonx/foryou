@@ -18,7 +18,7 @@ body {
   position: relative;
   text-align: center;
   visibility: hidden;
-  width: 100vw;
+  width: 100vh;
 }
 
 .container > div {
@@ -29,11 +29,11 @@ body {
 }
 
 .one {
-  font-size: 4.5rem;
+  font-size: 5rem;
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 3rem;
   font-weight: lighter;
 }
 
